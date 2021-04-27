@@ -3,7 +3,7 @@
 "productName": "BodyProjection",
 "productVersion": "0.1",
 "dataUrl": "WebXrTest.data.unityweb",
-"wasmCodeUrl": "WebXrTest.wasm.code.unityweb",
+"wasmCodeUrl": "WebXrTest.wasm",
 "wasmFrameworkUrl": "WebXrTest.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
