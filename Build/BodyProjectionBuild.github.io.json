@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "TestWebXrProject",
+"productName": "BodyProjection",
 "productVersion": "0.1",
 "dataUrl": "BodyProjectionBuild.github.io.data.unityweb",
 "wasmCodeUrl": "BodyProjectionBuild.github.io.wasm.code.unityweb",
